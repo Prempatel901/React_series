@@ -22,7 +22,7 @@ function Counter(){
             checked ={isStyle}
             onChange={(e)=>setStyle(e.target.checked)}
             />
-            use style
+            use color
         </label>
         
         </>
